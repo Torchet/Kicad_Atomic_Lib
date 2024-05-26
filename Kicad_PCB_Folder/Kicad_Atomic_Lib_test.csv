@@ -1,0 +1,7 @@
+"Reference","Value","Datasheet","Footprint","Qty","DNP","MPN","Manufacturer"
+"C1","${Capacitance}","~","Capacitor_SMD:C_0402_1005Metric","1","","GRM155R71C104KA88J","Murata"
+"C2","${Capacitance}","~","Capacitor_SMD:C_0201_0603Metric","1","","GRM0335C1E100JA01D","Murata"
+"C3","${Capacitance}","~","Capacitor_SMD:C_0402_1005Metric","1","","GRM155R61E105KA12D","Murata"
+"R1","10k","~","Resistor_SMD:R_0603_1608Metric","1","","RC0603FR-0710KL","Yageo"
+"R2","12k","~","Resistor_SMD:R_0603_1608Metric","1","","RC0603FR-0712KL","Yageo"
+"U1","STM32F411RETx","https://www.st.com/resource/en/datasheet/stm32f411re.pdf","Package_QFP:LQFP-64_10x10mm_P0.5mm","1","","",""
